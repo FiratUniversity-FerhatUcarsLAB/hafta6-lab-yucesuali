@@ -1,3 +1,9 @@
+//(AD-SOYAD = MUHAMMED ALİ YÜCESU)
+//(ÖĞREBCİ NUMARASI = 250541065)
+
+
+
+
 import java.util.Scanner;
 public class NotBilgisi {
     public static void main(String[] args) {
@@ -64,3 +70,4 @@ public class NotBilgisi {
 
     }
 }
+
